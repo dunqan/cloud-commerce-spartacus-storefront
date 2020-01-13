@@ -11,6 +11,7 @@ import { MultiCartService } from './facade/multi-cart.service';
 import { CartPageMetaResolver } from './services/cart-page-meta.resolver';
 import { CartStoreModule } from './store/cart-store.module';
 import { MultiCartStoreModule } from './store/multi-cart-store.module';
+// bad code
 
 @NgModule({
   imports: [CartStoreModule, MultiCartStoreModule],
