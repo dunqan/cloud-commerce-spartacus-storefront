@@ -1,5 +1,7 @@
 /*
  * Public API Surface of core
+ 
+ test codeowners /projects/core @Platonn
  */
 export * from './src/anonymous-consents/index';
 export * from './src/asm/index';
