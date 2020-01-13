@@ -7,3 +7,5 @@ export function getCartIdByUserId(cart: Cart, userId: string) {
   }
   return cart.code;
 }
+
+// test codeowners inside /projects/core/src/cart @Platonn
