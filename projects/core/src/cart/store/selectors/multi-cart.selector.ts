@@ -1,3 +1,5 @@
+// test codeowners inside /projects/core/src/cart AND /projects/core/src/**/store @Platonn
+
 import {
   createFeatureSelector,
   createSelector,
