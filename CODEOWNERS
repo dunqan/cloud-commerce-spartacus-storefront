@@ -10,6 +10,7 @@
 # Core
 /projects/core/                 @Platonn
 /projects/core/src/**/store/    @dunqan
+/projects/core/src/state/       @dunqan
 /projects/core/src/routing/     @Platonn
 /projects/core/src/cart/        @Platonn @marlass
 
