@@ -15,4 +15,4 @@
 /projects/core/src/cart/        @Platonn @marlass
 
 # Storefront lib
-projects/storefront/ @SAP/cloud-commerce-spartacus-storefront-project-team
+projects/storefrontlib/ @SAP/cloud-commerce-spartacus-storefront-project-team
